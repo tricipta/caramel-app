@@ -1,0 +1,9 @@
+.DS_STORE
+
+tmp/cache/*/*/*.php
+*_log
+*.log
+build
+vendor
+
+database.php

@@ -1,0 +1,21 @@
+{
+    "name": "tricipta/caramel-app",
+    "type": "project",
+    "description": "The Caramel Application",
+    "keywords": ["caramel"],
+    "homepage": "http://caramel.bitvirtu.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tata Tricipta",
+            "email": "tricipta@me.com",
+            "homepage": "http://caramel.bitvirtu.com",
+            "role": "Founder"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+	    "tricipta/caramel-framework": "dev-master"
+    }
+}
+
